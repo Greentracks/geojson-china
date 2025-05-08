@@ -5,6 +5,7 @@
 1. province: 省份
 1. city: 城市
 1. district: 区县
+1. [全国数据](./100000.json)
 
 # 参考
 
